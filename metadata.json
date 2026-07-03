@@ -1,0 +1,6 @@
+{
+  "name": "Poly Informatics Broadband",
+  "description": "Lightning Fast Fiber Internet for Home & Business",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
